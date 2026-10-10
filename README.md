@@ -17,3 +17,4 @@ Open `index.html` in a modern browser. The property photography and web fonts lo
 - `styles.css` — responsive layout and visual system
 - `script.js` — mobile navigation and enquiry form interactions
 - `assets/cluxe-logo.png` — cropped whitespace around the provided logo artwork; logo artwork/colors are preserved
+# cluxe-landing
